@@ -1,2 +1,1 @@
-# 1SamWareBeta
-saN
+# SamWareBeta
