@@ -2,4 +2,8 @@
  
 Example 2
 
-!Thread(https://github.com/Sail100/1SamWareBeta/blob/4d9c289f002a4a5ad4194d9439830dccf8e87a69/Roblox_2023-06-25-13-00-42.jpg)
+![Thread](https://github.com/Sail100/1SamWareBeta/blob/4d9c289f002a4a5ad4194d9439830dccf8e87a69/Roblox_2023-06-25-13-00-42.jpg)
+
+
+```lua
+loadstring(game:HttpGet("ttps://raw.githubusercontent.com/Sail100/1SamWareBeta/main/source.lua", true))()
