@@ -1,2 +1,2 @@
-![Thread](https://user-images.githubusercontent.com/77512805/164973978-31f19af4-528a-4af0-9ba8-21bc22e668ef.png) 
+![Thread](https://github.com/Sail100/1SamWareBeta/blob/e2553d5b43a7b91f3e2d58146797daedae9ec6c3/Roblox_2023-06-25-13-00-38.jpg) 
  
