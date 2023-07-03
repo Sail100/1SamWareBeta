@@ -9,4 +9,4 @@
 
 # Loadstring
 ```lua
-loadstring(game:HttpGet("ttps://raw.githubusercontent.com/Sail100/1SamWareBeta/main/source.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sail100/1SamWareBeta/main/source.lua", true))()
